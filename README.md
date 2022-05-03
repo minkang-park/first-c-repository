@@ -1,2 +1,2 @@
-# first-c-repository
-data structure
+# first-cpp-repository
+
